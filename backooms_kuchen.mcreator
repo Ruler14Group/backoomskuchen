@@ -1,0 +1,1922 @@
+{
+  "mod_elements": [
+    {
+      "name": "Level0wallpaperblock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0wallpaperblock"
+    },
+    {
+      "name": "Level0wallpaper2block",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0wallpaper_2block"
+    },
+    {
+      "name": "Level0wallpaper3block",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0wallpaper_3block"
+    },
+    {
+      "name": "Logo",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "logo"
+    },
+    {
+      "name": "Backrromsruler14",
+      "type": "tab",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrromsruler_14"
+    },
+    {
+      "name": "Level0wallpaper4block",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0wallpaper_4block"
+    },
+    {
+      "name": "Level0wallpaper5block",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0wallpaper_5block"
+    },
+    {
+      "name": "Level0separationwall",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0separationwall"
+    },
+    {
+      "name": "Level0carpet",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0carpet"
+    },
+    {
+      "name": "Level0lamp",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0lamp"
+    },
+    {
+      "name": "Level0lampclose",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0lampclose"
+    },
+    {
+      "name": "Grindingwood",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grindingwood"
+    },
+    {
+      "name": "Level0ceilingblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0ceilingblock"
+    },
+    {
+      "name": "Table",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "table"
+    },
+    {
+      "name": "Table2",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "table_2"
+    },
+    {
+      "name": "Chair",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chair"
+    },
+    {
+      "name": "Manilaceilingblock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manilaceilingblock"
+    },
+    {
+      "name": "Manilawallblock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manilawallblock"
+    },
+    {
+      "name": "Maniladoor",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maniladoor"
+    },
+    {
+      "name": "Thevoid",
+      "type": "biome",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l0"
+    },
+    {
+      "name": "Level0",
+      "type": "dimension",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Backrooms1",
+      "type": "achievement",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_1"
+    },
+    {
+      "name": "Backrooms2",
+      "type": "achievement",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_2"
+    },
+    {
+      "name": "ManiladoorZaiFangKuaiShangYouJian",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maniladoor_zai_fang_kuai_shang_you_jian",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Level0wallpaperblock6",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0wallpaperblock_6"
+    },
+    {
+      "name": "Level0wallpaperblock7",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "level_0wallpaperblock_7"
+    },
+    {
+      "name": "Irongate",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irongate"
+    },
+    {
+      "name": "Level0structure1",
+      "type": "structure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0structure_1"
+    },
+    {
+      "name": "Wallbug",
+      "type": "structure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wallbug"
+    },
+    {
+      "name": "Manliarooms",
+      "type": "dimension",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manliarooms",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "ManilaRoom",
+      "type": "biome",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manila_room"
+    },
+    {
+      "name": "ManilaRooms",
+      "type": "structure",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manila_rooms"
+    },
+    {
+      "name": "Level0wallpaperblock6DangShiTiZaiFangKuaiZhongPengZhuangShi",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0wallpaperblock_6_dang_shi_ti_zai_fang_kuai_zhong_peng_zhuang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManilaceilingblockDangShiTiZaiFangKuaiZhongPengZhuangShi",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manilaceilingblock_dang_shi_ti_zai_fang_kuai_zhong_peng_zhuang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Poolstoneore",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolstoneore"
+    },
+    {
+      "name": "Poolstone",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolstone"
+    },
+    {
+      "name": "Poolstonebit",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolstonebit"
+    },
+    {
+      "name": "PoolstoneoreDangFangKuaiBeiWanJiaPoPiShi",
+      "type": "procedure",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolstoneore_dang_fang_kuai_bei_wan_jia_po_pi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PoolstonPickaxe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_pickaxe"
+    },
+    {
+      "name": "PoolstonAxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_axe"
+    },
+    {
+      "name": "PoolstonSword",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_sword"
+    },
+    {
+      "name": "PoolstonShovel",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_shovel"
+    },
+    {
+      "name": "PoolstonPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_pickaxe_recipe"
+    },
+    {
+      "name": "PoolstonAxeRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_axe_recipe"
+    },
+    {
+      "name": "PoolstonSwordRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_sword_recipe"
+    },
+    {
+      "name": "PoolstonShovelRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_shovel_recipe"
+    },
+    {
+      "name": "PoolstonHoeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_hoe_recipe"
+    },
+    {
+      "name": "PoolstonSwordDangShiTiBeiGongJuJiZhongShi",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poolston_sword_dang_shi_ti_bei_gong_ju_ji_zhong_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AlmondwaterWanJiaWanChengShiYongWuPinShi",
+      "type": "procedure",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "almondwater_wan_jia_wan_cheng_shi_yong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Almondwater",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "almondwater"
+    },
+    {
+      "name": "Emptyalmondwater",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emptyalmondwater"
+    },
+    {
+      "name": "Almondwater2",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "almondwater_2"
+    },
+    {
+      "name": "Almondwater2WanJiaWanChengShiYongWuPinShi",
+      "type": "procedure",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "almondwater_2_wan_jia_wan_cheng_shi_yong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Almondwater3",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "almondwater_3"
+    },
+    {
+      "name": "Almondwater3WanJiaWanChengShiYongWuPinShi",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "almondwater_3_wan_jia_wan_cheng_shi_yong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Level0carpetDangShiTiZaiFangKuaiShangXingZouShi",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0carpet_d",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "dimension",
+            "type": "dimensiontype"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Walkinlevel0",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walkinlevel_0",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "overlay",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    },
+    {
+      "name": "San1",
+      "type": "procedure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "san_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Putrefyalmondwater",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "putrefyalmondwater"
+    },
+    {
+      "name": "PutrefyalmondwaterWanJiaWanChengShiYongWuPinShi",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "putrefyalmondwater_wan_jia_wan_cheng_shi_yong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LiquidPain",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liquid_pain"
+    },
+    {
+      "name": "SmlierDangShiTiGengXinKeShi",
+      "type": "procedure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smlier_dang_shi_ti_geng_xin_ke_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmlierDangShiTiBeiShaSiShi",
+      "type": "procedure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smlier_dang_shi_ti_bei_sha_si_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smlier",
+      "type": "livingentity",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smlier"
+    },
+    {
+      "name": "SkinStealerDangWanJiaYuGaiShiTiFaShengPengZhuangShi",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skin_stealer_dang_wan_jia_yu_gai_shi_ti_fa_sheng_peng_zhuang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Level1ceiling",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1ceiling"
+    },
+    {
+      "name": "Level1mattess",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1mattess"
+    },
+    {
+      "name": "Level1Plasticwall",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1_plasticwall"
+    },
+    {
+      "name": "Level1post1",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1post_1"
+    },
+    {
+      "name": "Level1post2",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1post_2"
+    },
+    {
+      "name": "Level1post3",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1post_3"
+    },
+    {
+      "name": "Level1post4",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1post_4"
+    },
+    {
+      "name": "Guandao1",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guandao_1"
+    },
+    {
+      "name": "Guandao2",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guandao_2"
+    },
+    {
+      "name": "Guandao3",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guandao_3"
+    },
+    {
+      "name": "Level1structure1",
+      "type": "structure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1structure_1"
+    },
+    {
+      "name": "Level1",
+      "type": "dimension",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Garbagebag",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "garbagebag"
+    },
+    {
+      "name": "GarbagebagDangFangKuaiBeiWanJiaPoPiShi",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "garbagebag_dang_fang_kuai_bei_wan_jia_po_pi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Garbag",
+      "type": "loottable",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "garbag"
+    },
+    {
+      "name": "SmlierDangShiTiShouShangShi",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smlier_dang_shi_ti_shou_shang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Level1poolstone",
+      "type": "structure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1poolstone"
+    },
+    {
+      "name": "Level1laji",
+      "type": "structure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1laji"
+    },
+    {
+      "name": "Pinchbar",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinchbar"
+    },
+    {
+      "name": "PinchbarDangYouJianDianJiFangKuaiShiFangKuaiDeWeiZhi",
+      "type": "procedure",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinchbar_dang_you_jian_dian_ji_fang_kuai_shi_fang_kuai_de_wei_zhi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Box",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box"
+    },
+    {
+      "name": "Bbox",
+      "type": "loottable",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bbox"
+    },
+    {
+      "name": "L1box",
+      "type": "structure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_1box"
+    },
+    {
+      "name": "SkinSteale",
+      "type": "livingentity",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skin_steale"
+    },
+    {
+      "name": "Backroomsruler142",
+      "type": "tab",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backroomsruler_142"
+    },
+    {
+      "name": "LiquidPainWanJiaWanChengShiYongWuPinShi",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liquid_pain_wan_jia_wan_cheng_shi_yong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blood1",
+      "type": "overlay",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_1"
+    },
+    {
+      "name": "BloodDangYaoShuiXiaoGuoKaiShiYingYongShi",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dang_yao_shui_xiao_guo_kai_shi_ying_yong_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blood",
+      "type": "potioneffect",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood"
+    },
+    {
+      "name": "BloodXianShiYouXiNeiDieJiaCeng",
+      "type": "procedure",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_xian_shi_you_xi_nei_die_jia_ceng",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Glasspain",
+      "type": "potion",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glasspain"
+    },
+    {
+      "name": "GotoLevel1",
+      "type": "structure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goto_level_1"
+    },
+    {
+      "name": "Level2mattess",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2mattess"
+    },
+    {
+      "name": "Level2wall",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2wall"
+    },
+    {
+      "name": "Level2guandao",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2guandao"
+    },
+    {
+      "name": "Level2jiazi",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2jiazi"
+    },
+    {
+      "name": "Jinshu",
+      "type": "gui",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jinshu"
+    },
+    {
+      "name": "Level2",
+      "type": "dimension",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Level2structure",
+      "type": "structure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2structure"
+    },
+    {
+      "name": "Level2vold",
+      "type": "biome",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2vold"
+    },
+    {
+      "name": "Cockroach",
+      "type": "livingentity",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockroach"
+    },
+    {
+      "name": "Level1Concretestairs",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1_concretestairs"
+    },
+    {
+      "name": "E",
+      "type": "overlay",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "e"
+    },
+    {
+      "name": "Nengliang1",
+      "type": "procedure",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nengliang_1",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nengliang2",
+      "type": "procedure",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nengliang_2",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N3",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_3",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N4",
+      "type": "procedure",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_4",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N5",
+      "type": "procedure",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_5",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N6",
+      "type": "procedure",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_6",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N7",
+      "type": "procedure",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_7",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N8",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_8",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N9",
+      "type": "procedure",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_9",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N10",
+      "type": "procedure",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_10",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N11",
+      "type": "procedure",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_11",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rosta",
+      "type": "item",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosta"
+    },
+    {
+      "name": "HHouShiShi",
+      "type": "tab",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h_hou_shi_shi"
+    },
+    {
+      "name": "Food1",
+      "type": "procedure",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "food_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Seetroast",
+      "type": "item",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seetroast"
+    },
+    {
+      "name": "Food2",
+      "type": "procedure",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "food_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Food3",
+      "type": "procedure",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "food_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Candy1",
+      "type": "item",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_1"
+    },
+    {
+      "name": "Energybar",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energybar"
+    },
+    {
+      "name": "Enen1",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enen_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smilertexiao",
+      "type": "procedure",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smilertexiao",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Distort",
+      "type": "potioneffect",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distort"
+    },
+    {
+      "name": "Dis",
+      "type": "overlay",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dis"
+    },
+    {
+      "name": "Smlier2",
+      "type": "procedure",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smlier_2",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Smilerxian",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smilerxian"
+    },
+    {
+      "name": "SmilerxianDangShiTiZaiFangKuaiZhongPengZhuangShi",
+      "type": "procedure",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smilerxian_dang_shi_ti_zai_fang_kuai_zhong_peng_zhuang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "L1b",
+      "type": "structure",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_1b"
+    },
+    {
+      "name": "Irongate2",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "irongate_2"
+    },
+    {
+      "name": "Shuizi",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuizi"
+    },
+    {
+      "name": "N1x",
+      "type": "rangeditem",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_1x"
+    },
+    {
+      "name": "Xingrengongji",
+      "type": "procedure",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xingrengongji",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fashe",
+      "type": "keybind",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fashe"
+    },
+    {
+      "name": "SanInit",
+      "type": "procedure",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "san_init",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SanFight",
+      "type": "procedure",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "san_fight",
+      "metadata": {
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "san",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "100.0"
+    },
+    {
+      "name": "energy",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "sanCheckTime",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "sanSpeed",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "sanCheckPlayerTime",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "noise1",
+      "files": [
+        "noise_lamp"
+      ],
+      "category": "neutral",
+      "subtitle": "嗡嗡声"
+    },
+    {
+      "name": "skinstealer1",
+      "files": [
+        "qie_pi_zhe_"
+      ],
+      "category": "neutral",
+      "subtitle": "低吼"
+    },
+    {
+      "name": "skin_stealer3",
+      "files": [
+        "qie_pi_zhe__3"
+      ],
+      "category": "neutral",
+      "subtitle": "低吼"
+    },
+    {
+      "name": "skinstealer2",
+      "files": [
+        "qie_pi_zhe__1"
+      ],
+      "category": "neutral",
+      "subtitle": "低吼"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.backooms_kuchen.almondwater_3": "治愈杏仁水",
+      "block.backooms_kuchen.irongate": "铁门",
+      "item.backooms_kuchen.almondwater_2": "力量杏仁水",
+      "block.backooms_kuchen.level_1post_1": "墙壁",
+      "block.backooms_kuchen.level_1post_3": "墙壁",
+      "block.backooms_kuchen.level_1post_2": "墙壁",
+      "block.backooms_kuchen.level_1post_4": "墙壁",
+      "subtitles.skin_stealer3": "低吼",
+      "item.minecraft.tipped_arrow.effect.glasspain": "液态痛苦箭",
+      "entity.backooms_kuchen.cockroach": "蟑螂",
+      "entity.backooms_kuchen.smlier": "笑魇",
+      "entity.backooms_kuchen.skin_steale": "窃皮者",
+      "block.backooms_kuchen.level_1_concretestairs": "混凝土",
+      "item.backooms_kuchen.n_1x": "N 1x",
+      "effect.backooms_kuchen.blood": "流血",
+      "block.backooms_kuchen.level_0lampclose": "熄灭的荧光灯",
+      "block.backooms_kuchen.level_0ceilingblock": "天花板",
+      "block.backooms_kuchen.level_0carpet": "潮湿的厚旧地毯",
+      "biome.backooms_kuchen.level_2vold": "l0",
+      "item.backooms_kuchen.pinchbar": "撬棍",
+      "item.backooms_kuchen.level_2": "Level 0成就图标",
+      "block.backooms_kuchen.manilaceilingblock": "天花板",
+      "subtitles.skinstealer1": "低吼",
+      "item.backooms_kuchen.poolston_sword": "池石剑 ",
+      "item.backooms_kuchen.almondwater": "杏仁水",
+      "block.backooms_kuchen.poolstoneore": "池石矿",
+      "block.backooms_kuchen.box": "Box",
+      "item.backooms_kuchen.poolstonebit": "池石碎块",
+      "subtitles.skinstealer2": "低吼",
+      "block.backooms_kuchen.smilerxian": "笑魇的陷阱",
+      "block.backooms_kuchen.table": "桌子",
+      "block.backooms_kuchen.manilawallblock": "墙块",
+      "item.backooms_kuchen.level_0": "Level 0成就图标",
+      "item.backooms_kuchen.logo": "Logo",
+      "item.backooms_kuchen.level_1": "Level 0成就图标",
+      "block.backooms_kuchen.level_0lamp": "荧光灯",
+      "item.backooms_kuchen.liquid_pain": "液体痛苦",
+      "itemGroup.tabbackroomsruler_142": "后室物品",
+      "block.backooms_kuchen.level_2jiazi": "混凝土",
+      "block.backooms_kuchen.level_2wall": "混凝土",
+      "block.backooms_kuchen.chair": "椅子",
+      "block.backooms_kuchen.level_1_plasticwall": "墙壁",
+      "block.backooms_kuchen.level_0wallpaperblock": "墙块",
+      "item.minecraft.splash_potion.effect.glasspain": "投掷型液态痛苦",
+      "item.backooms_kuchen.putrefyalmondwater": "过期的杏仁水",
+      "item.backooms_kuchen.smlier_spawn_egg": "笑魇 Spawn Egg",
+      "advancements.backrooms_2.title": "桌椅板凳马尼拉",
+      "key.backooms_kuchen.fashe": "发射/投掷",
+      "block.backooms_kuchen.table_2": "桌子",
+      "block.backooms_kuchen.level_0wallpaperblock_6": "墙块",
+      "block.backooms_kuchen.garbagebag": "垃圾袋",
+      "block.backooms_kuchen.level_0wallpaperblock_7": "墙块",
+      "itemGroup.tabbackrromsruler_14": "Backrroms ruler14",
+      "block.backooms_kuchen.level_2guandao": "混凝土",
+      "block.backooms_kuchen.guandao_1": "墙壁",
+      "block.backooms_kuchen.guandao_2": "墙壁",
+      "item.backooms_kuchen.poolston_shovel": "池石铲",
+      "block.backooms_kuchen.guandao_3": "墙壁",
+      "block.backooms_kuchen.level_2mattess": "混凝土",
+      "block.backooms_kuchen.level_0separationwall": "隔断墙",
+      "item.backooms_kuchen.shuizi": "杏仁水",
+      "biome.backooms_kuchen.l0": "l0",
+      "block.backooms_kuchen.level_0wallpaper_3block": "墙块",
+      "item.backooms_kuchen.emptyalmondwater": "空瓶子",
+      "item.backooms_kuchen.rosta": "烤肉",
+      "item.backooms_kuchen.poolstone": "池石",
+      "item.backooms_kuchen.poolston_pickaxe": "池石镐",
+      "block.backooms_kuchen.level_0wallpaper_4block": "墙块",
+      "advancements.backrooms_1.title": "你好！流浪者！",
+      "subtitles.noise1": "嗡嗡声",
+      "biome.backooms_kuchen.manila_room": "Thevoid",
+      "advancements.backrooms_1.descr": "卡入level0",
+      "block.backooms_kuchen.maniladoor": "马尼拉门 但是马尼拉房间本身没有门所以被废弃掉了。。。。。。。。。",
+      "block.backooms_kuchen.level_1ceiling": "天花板",
+      "item.backooms_kuchen.cockroach_spawn_egg": "蟑螂 Spawn Egg",
+      "item.backooms_kuchen.candy_1": "杏仁糖果",
+      "block.backooms_kuchen.irongate_2": "铁门",
+      "item.backooms_kuchen.poolston_axe": "池石斧",
+      "item.backooms_kuchen.manliarooms": "马尼拉室成就图标",
+      "item.backooms_kuchen.energybar": "能量棒",
+      "advancements.backrooms_2.descr": "从Level0走到马尼拉室",
+      "item.backooms_kuchen.seetroast": "蜜汁烤肉",
+      "effect.backooms_kuchen.distort": "扭曲",
+      "block.backooms_kuchen.grindingwood": "实木",
+      "item.minecraft.lingering_potion.effect.glasspain": "滞留型液态痛苦",
+      "item.backooms_kuchen.skin_steale_spawn_egg": "窃皮者 Spawn Egg",
+      "block.backooms_kuchen.level_0wallpaper_5block": "墙块",
+      "block.backooms_kuchen.level_1mattess": "混凝土",
+      "block.backooms_kuchen.level_0wallpaper_2block": "墙块",
+      "itemGroup.tabh_hou_shi_shi": "后室食物",
+      "item.minecraft.potion.effect.glasspain": "液态痛苦"
+    },
+    "zh_cn": {
+      "item.backooms_kuchen.almondwater_3": "治愈杏仁水",
+      "block.backooms_kuchen.irongate": "铁门",
+      "item.backooms_kuchen.almondwater_2": "力量杏仁水",
+      "block.backooms_kuchen.level_1post_1": "墙壁",
+      "block.backooms_kuchen.level_1post_3": "墙壁",
+      "block.backooms_kuchen.level_1post_2": "墙壁",
+      "subtitles.skin_stealer3": "低吼",
+      "block.backooms_kuchen.level_1post_4": "墙壁",
+      "item.minecraft.tipped_arrow.effect.glasspain": "液态痛苦箭",
+      "entity.backooms_kuchen.cockroach": "蟑螂",
+      "entity.backooms_kuchen.smlier": "笑魇",
+      "entity.backooms_kuchen.skin_steale": "窃皮者",
+      "block.backooms_kuchen.level_1_concretestairs": "混凝土",
+      "item.backooms_kuchen.n_1x": "N 1x",
+      "effect.backooms_kuchen.blood": "流血",
+      "block.backooms_kuchen.level_0lampclose": "熄灭的荧光灯",
+      "block.backooms_kuchen.level_0ceilingblock": "天花板",
+      "block.backooms_kuchen.level_0carpet": "潮湿的厚旧地毯",
+      "biome.backooms_kuchen.level_2vold": "l0",
+      "item.backooms_kuchen.pinchbar": "撬棍",
+      "item.backooms_kuchen.level_2": "Level 0成就图标",
+      "block.backooms_kuchen.manilaceilingblock": "天花板",
+      "subtitles.skinstealer1": "低吼",
+      "item.backooms_kuchen.poolston_sword": "池石剑 ",
+      "item.backooms_kuchen.almondwater": "杏仁水",
+      "block.backooms_kuchen.poolstoneore": "池石矿",
+      "block.backooms_kuchen.box": "Box",
+      "item.backooms_kuchen.poolstonebit": "池石碎块",
+      "subtitles.skinstealer2": "低吼",
+      "block.backooms_kuchen.smilerxian": "墙块",
+      "block.backooms_kuchen.table": "桌子",
+      "block.backooms_kuchen.manilawallblock": "墙块",
+      "item.backooms_kuchen.level_0": "Level 0成就图标",
+      "item.backooms_kuchen.logo": "Logo",
+      "item.backooms_kuchen.level_1": "Level 0成就图标",
+      "block.backooms_kuchen.level_0lamp": "荧光灯",
+      "item.backooms_kuchen.liquid_pain": "杏仁水",
+      "itemGroup.tabbackroomsruler_142": "Backrroms ruler14",
+      "block.backooms_kuchen.level_2jiazi": "混凝土",
+      "block.backooms_kuchen.level_2wall": "混凝土",
+      "block.backooms_kuchen.chair": "椅子",
+      "block.backooms_kuchen.level_1_plasticwall": "墙壁",
+      "block.backooms_kuchen.level_0wallpaperblock": "墙块",
+      "item.minecraft.splash_potion.effect.glasspain": "投掷型液态痛苦",
+      "item.backooms_kuchen.putrefyalmondwater": "杏仁水",
+      "item.backooms_kuchen.smlier_spawn_egg": "笑魇 Spawn Egg",
+      "advancements.backrooms_2.title": "桌椅板凳马尼拉",
+      "key.backooms_kuchen.fashe": "发射/投掷",
+      "block.backooms_kuchen.table_2": "桌子",
+      "block.backooms_kuchen.level_0wallpaperblock_6": "墙块",
+      "block.backooms_kuchen.garbagebag": "垃圾袋",
+      "block.backooms_kuchen.level_0wallpaperblock_7": "墙块",
+      "itemGroup.tabbackrromsruler_14": "Backrroms ruler14",
+      "block.backooms_kuchen.level_2guandao": "混凝土",
+      "block.backooms_kuchen.guandao_1": "墙壁",
+      "block.backooms_kuchen.guandao_2": "墙壁",
+      "item.backooms_kuchen.poolston_shovel": "池石铲",
+      "block.backooms_kuchen.guandao_3": "墙壁",
+      "block.backooms_kuchen.level_2mattess": "混凝土",
+      "block.backooms_kuchen.level_0separationwall": "隔断墙",
+      "item.backooms_kuchen.shuizi": "杏仁水",
+      "biome.backooms_kuchen.l0": "l0",
+      "block.backooms_kuchen.level_0wallpaper_3block": "墙块",
+      "item.backooms_kuchen.emptyalmondwater": "空瓶子",
+      "item.backooms_kuchen.rosta": "杏仁水",
+      "item.backooms_kuchen.poolstone": "池石",
+      "item.backooms_kuchen.poolston_pickaxe": "池石镐",
+      "block.backooms_kuchen.level_0wallpaper_4block": "墙块",
+      "advancements.backrooms_1.title": "你好！流浪者！",
+      "subtitles.noise1": "嗡嗡声",
+      "biome.backooms_kuchen.manila_room": "Thevoid",
+      "advancements.backrooms_1.descr": "卡入level0",
+      "block.backooms_kuchen.maniladoor": "马尼拉门 但是马尼拉房间本身没有门所以被废弃掉了。。。。。。。。。",
+      "block.backooms_kuchen.level_1ceiling": "墙块",
+      "item.backooms_kuchen.cockroach_spawn_egg": "蟑螂 Spawn Egg",
+      "item.backooms_kuchen.candy_1": "蜜汁烤肉",
+      "block.backooms_kuchen.irongate_2": "铁门",
+      "item.backooms_kuchen.poolston_axe": "池石斧",
+      "item.backooms_kuchen.manliarooms": "马尼拉室成就图标",
+      "item.backooms_kuchen.energybar": "蜜汁烤肉",
+      "advancements.backrooms_2.descr": "从Level0走到马尼拉室",
+      "item.backooms_kuchen.seetroast": "烤肉",
+      "effect.backooms_kuchen.distort": "扭曲",
+      "block.backooms_kuchen.grindingwood": "实木",
+      "item.minecraft.lingering_potion.effect.glasspain": "滞留型液态痛苦",
+      "item.backooms_kuchen.skin_steale_spawn_egg": "窃皮者 Spawn Egg",
+      "block.backooms_kuchen.level_0wallpaper_5block": "墙块",
+      "block.backooms_kuchen.level_1mattess": "墙块",
+      "block.backooms_kuchen.level_0wallpaper_2block": "墙块",
+      "itemGroup.tabh_hou_shi_shi": "后室食物",
+      "item.minecraft.potion.effect.glasspain": "液态痛苦"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "backooms_kuchen",
+    "modName": "后室-ruler14",
+    "version": "0.1.0",
+    "description": "A backrooms mod",
+    "author": "Ruler14制作组, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "0",
+    "modElementsPackage": "net.mceater.backoomskuchen",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
